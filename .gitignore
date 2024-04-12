@@ -14,4 +14,4 @@ __pycache__/
 /src/models/.ipynb_checkpoints/
 *.csv
 *.joblib
-/models/
+/models/trained-models/
