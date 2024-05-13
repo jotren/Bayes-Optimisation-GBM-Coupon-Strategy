@@ -1,5 +1,7 @@
 # Coupon Strategy Optimisation
 
+![alt text](./images/GpParBayesAnimationSmall.gif)
+
 ## Introduction
 
 The goal of this project was to optimise the coupon strategy for a customer base to maximise total spend. This involved three key analyses:
